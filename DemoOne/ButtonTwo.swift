@@ -2,7 +2,7 @@ import SwiftUI
 
 struct ButtonTwo: View {
     var body: some View {
-        Text("hello")
+        Text("this is mac")
     }
 }
 
